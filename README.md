@@ -1,2 +1,2 @@
 # Spotify
-This is the spotify for Spotify Clone
+This is the repository for Spotify Clone.
